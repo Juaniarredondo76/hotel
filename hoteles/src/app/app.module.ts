@@ -9,6 +9,7 @@ import { FooterComponent } from './shared/footer/footer.component';
 import { FormularioreservasComponent } from './formularioreservas/formularioreservas.component';
 import { ReservasComponent } from './reservas/reservas.component';
 import { InfohotelComponent } from './infohotel/infohotel.component';
+import { HabitacionesComponent } from './habitaciones/habitaciones.component';
 
 
 @NgModule({
@@ -20,6 +21,7 @@ import { InfohotelComponent } from './infohotel/infohotel.component';
     FormularioreservasComponent,
     ReservasComponent,
     InfohotelComponent,
+    HabitacionesComponent,
     
   ],
   imports: [
